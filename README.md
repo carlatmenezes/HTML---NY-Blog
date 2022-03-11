@@ -1,4 +1,4 @@
-# HTML---NY-Blog
+# HTML-NY-Blog
 HTML - NY city Blog
 <!DOCTYPE html>
 <html>
@@ -26,7 +26,6 @@ HTML - NY city Blog
              <img src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg">
   <figcap>This is the Statue of Liberty, a popular tourist attraction located on Ellis Island.</figcap>
              </figure>
-             
             <h2> Top food options in NYC</h2>
             <ol>
               <li>Pizza</li>
@@ -43,7 +42,6 @@ HTML - NY city Blog
             </article>
             <video scr="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4" controls>Video Not supported</video>
             <embed src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg"/>
-              
     <audio> 
         <embed src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov">
           </audio>
